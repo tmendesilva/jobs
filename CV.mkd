@@ -1,17 +1,50 @@
 Vaga
 ====
-
-[Preencha aqui a vaga que você pretende]
-
+Estágio em Bioinformática
 
 CV
 ==
+Tiago Mendes da Silva
+---------------------
 
-[Preencha aqui o seu cv]
+**Dados Pessoais**
+>Brasileiro, 30 anos (15/01/85), solteiro  
+>CPF (BRA) 319.738.978-65  
+>Rua Appa, 340 Monte Alegre  
+>14051-060 - Ribeirão Preto, São Paulo - Brasil  
+>16 991742360  
+>tmendesilva@gmail.com  
 
-__Dicas:__
-* Coloque o seu CV aqui, __não coloque só um link para um site externo tipo LinkedIn e about.me__. Você pode até colocar o seu linkedin, mas como uma informação a mais no seu CV.
-* Obedeça a formatação do markdown do GitHub. Isso deixa a leitura do seu currículo mais agradável.
-	* [Markdown syntax guide] (http://daringfireball.net/projects/markdown/syntax)
-	* [GitHub Flavored Markdown] (http://github.github.com/github-flavored-markdown/)
-	* Pressione M enquanto lê o README.mkd no projeto [jobs] (http://github.com/genomika/jobs), para ver o cheat-sheet
+-------------
+**Formação**  
+Curso superior completo.  
+
+> **Curso técnico**   
+>Técnico em Eletrônica, Centro Universitário Moura Lacerda (dezembro/2008) - concluída.  
+>**Graduação**  
+>Informática Biomédica, USP - Universidade de São Paulo (junho/2015) - concluída.  
+
+----------
+**Histórico profissional**
+
+>**Autônomo - de janeiro/2010 a julho/2015**  
+>Técnico em Informática - TI  
+>Manutenção em micros, notebook. Configuração e serviços em redes.  
+>**Infoserv Computadores - de agosto/2009 a janeiro/2010**  
+>Técnico em Informática  
+>Manutenção em micros, notebook. Configuração e serviços em redes.  
+>**Eletrobraz Computadores - de agosto/2007 a setembro/2009**  
+>Técnico em Informática  
+>Manutenção em micros, notebook. Configuração e serviços em redes.  
+>**Flay Computadores - de abril/2004 a julho/2007**  
+>Técnico em Informática  
+>Manutenção em micros, notebook. Configuração e serviços em redes.  
+
+----------
+**Perfil**  
+>Trabalho com informática à mais de 10 anos no ramos de manutenção de micros, notebooks, celulares e outros aparelhos relacionados.  
+>No momento me formei no curso de Informática Biomédica, realizando como trabalho de conclusão, o desenvolvimento de parte de um pacote na linguagem R para download de dados ômicos de bancos públicos (ENCODE, ROADMAP e TCGA). Entretanto tenho conhecimento em outras linguagens como Java, C, C++. Também já trabalhei com banco de dados.  
+Em empregos anteriores trabalhei desde atendimento ao cliente, até a realização do serviço.  
+Busco uma oportunidade na área, para que eu possa expandir meu potencial, ganhar experiência e ao mesmo tempo contribuir para a realização de outros projetos.
+
+
